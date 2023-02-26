@@ -1,0 +1,8 @@
+{ 
+    "members":
+    [
+        {"id":"123","cin":"123123","name":"ahmed","createDate":"12/10/2023","cv":"lien","type":"teacher"},
+        {"id":"1235","cin":"125123","name":"qli","createDate":"12/10/2023","cv":"lien","type":"student"},
+        {"id":"1236","cin":"126123","name":"nouri","createDate":"12/10/2023","cv":"lien","type":"teacher"}
+    ]
+}
